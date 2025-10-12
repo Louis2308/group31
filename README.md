@@ -154,5 +154,7 @@ The repositories include base datasets under the `data/question_name` directorie
 **Note:**  
 These files allow customization of user behavior, DER production, and network constraints for simulation and optimization. Students can extend or replace these datasets as needed to conduct adequate simulations and sensitivity analysis. We recommend that any new or modified files follow the same structure for compatibility with the starter code, and easy grading. Please document all new datasets in this README.md file.
 
-## Starter Code Structure
+## Our Code Structure
+
+Our code solutions consist of four Jupyter Notebooks, one for each part of the assignment, namely CodePart1a.ipynb, CodePart1b.ipynb, CodePart1c.ipynb, and CodePart2b.ipynb. Each file has multiple sections of code ready to run, which solves the optimization problems and runs various simulations on the problems.
 
